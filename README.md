@@ -23,5 +23,5 @@ JsFormat（它其实用的是jsbeautifier），CSScomb两个格式化的插件�
 建议在修改这些错误之前，js文件用JsFormat格式化一下（ctrl+alt+f），css文件用CSScomb格式化一下（ctrl+shift+c），可以减少很多工作量。
 
 ### 3. 觉得不合理或者有遗漏的地方？
-如果觉得有不合理或者遗漏的地方，请访问[这里](https://github.com/AlloyTeam/CodeGuide/issues/new)！
+提交issues
 
